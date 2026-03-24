@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="150" src="https://tenor.com/en-GB/view/minecraft-aesthetic-gif-22465084" />
-  <div class="tenor-gif-embed" data-postid="22465084" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/minecraft-aesthetic-gif-22465084">Minecraft Aesthetic GIF</a>from <a href="https://tenor.com/search/minecraft+aesthetic-gifs">Minecraft Aesthetic GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img height="150" src="https://i.pinimg.com/originals/2a/c3/55/2ac3558ec190efe11106889d952df39b.gif" />
 </div>
 
 ###
